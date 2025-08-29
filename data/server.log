@@ -1,0 +1,1000 @@
+[2025-08-01 09:00:00] [WARNING] User 1310 accessed
+[2025-08-01 09:00:03] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:00:04] [INFO] User 1023 accessed /product_2010
+[2025-08-01 09:00:09] [INFO] INFO: Order 767 processed successfully
+[2025-08-01 09:00:04] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:00:20] [INFO] Database connection successful
+[2025-08-01 09:00:18] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:00:28] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:00:24] [INFO] User 1373 accessed /product_2002
+[2025-08-01 09:00:09] [INFO] Database connection successful
+[2025-08-01 09:00:10] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:00:55] [INFO] INFO: Order 411 processed successfully
+[2025-08-01 09:01:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:00:39] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:00:28] [INFO] User 1380 accessed /product_2005
+[2025-08-01 09:00:15] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:00:32] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:00:34] [INFO] INFO: Order 363 processed successfully
+[2025-08-01 09:00:18] [INFO] User 1025 accessed /product_2006
+[2025-08-01 09:00:38] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:01:20] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:01:45] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:01:06] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:01:55] [INFO] INFO: Order 743 processed successfully
+[2025-08-01 09:01:12] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:01:40] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:00:26] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:01:21] [INFO] INFO: Order 659 processed successfully
+[2025-08-01 09:01:52] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:01:27] [INFO] INFO: Order 683 processed successfully
+[2025-08-01 09:02:00] [INFO] User 1448 accessed /product_2007
+[2025-08-01 09:01:02] [INFO] User 1341 accessed /product_2004
+[2025-08-01 09:01:04] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:02:45] [INFO] User 1006 accessed /product_2007
+[2025-08-01 09:01:42] [INFO] Database connection successful
+[2025-08-01 09:02:20] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:02:24] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:00:37] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:01:54] [INFO] Database connection successful
+[2025-08-01 09:01:18] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:00:40] [INFO] User 1449 accessed /product_2004
+[2025-08-01 09:02:44] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:02:48] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:03:35] [INFO] Database connection successful
+[2025-08-01 09:00:44] [INFO] INFO: Order 46 processed successfully
+[2025-08-01 09:02:15] [INFO] INFO: Order 50 processed successfully
+[2025-08-01 09:03:04] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:03:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:00:48] [INFO] Database connection successful
+[2025-08-01 09:02:27] [INFO] Database connection successful
+[2025-08-01 09:01:40] [WARNING] User 1008 accessed
+[2025-08-01 09:03:24] [INFO] User 1381 accessed /product_2001
+[2025-08-01 09:02:36] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:02:39] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:02:42] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:02:45] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:03:44] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:03:48] [INFO] INFO: Order 254 processed successfully
+[2025-08-01 09:00:58] [INFO] INFO: Order 712 processed successfully
+[2025-08-01 09:03:56] [INFO] User 1014 accessed /product_2002
+[2025-08-01 09:01:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:01:01] [INFO] Database connection successful
+[2025-08-01 09:05:10] [INFO] INFO: Order 584 processed successfully
+[2025-08-01 09:02:06] [INFO] INFO: Order 813 processed successfully
+[2025-08-01 09:02:08] [INFO] INFO: Order 296 processed successfully
+[2025-08-01 09:01:05] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:04:24] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:01:07] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:05:40] [INFO] Database connection successful
+[2025-08-01 09:02:18] [INFO] User 1281 accessed /product_2004
+[2025-08-01 09:01:10] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:01:11] [INFO] INFO: Order 579 processed successfully
+[2025-08-01 09:06:00] [INFO] Database connection successful
+[2025-08-01 09:04:52] [INFO] User 1283 accessed /product_2002
+[2025-08-01 09:03:42] [INFO] Database connection successful
+[2025-08-01 09:01:15] [INFO] Database connection successful
+[2025-08-01 09:06:20] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:05:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:01:18] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:03:57] [INFO] INFO: Order 292 processed successfully
+[2025-08-01 09:04:00] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:01:21] [INFO] INFO: Order 440 processed successfully
+[2025-08-01 09:01:22] [INFO] User 1244 accessed /product_2008
+[2025-08-01 09:01:23] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:04:12] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:02:50] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:02:52] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:07:15] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:01:28] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:05:56] [INFO] INFO: Order 764 processed successfully
+[2025-08-01 09:06:00] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:01:31] [INFO] INFO: Order 57 processed successfully
+[2025-08-01 09:06:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:04:39] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:03:08] [INFO] User 1463 accessed /product_2006
+[2025-08-01 09:07:55] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:06:24] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:04:51] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:04:54] [INFO] INFO: Order 166 processed successfully
+[2025-08-01 09:08:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:05:00] [INFO] User 1317 accessed
+[2025-08-01 09:03:22] [INFO] User 1378 accessed /product_2005
+[2025-08-01 09:01:42] [INFO] User 1166 accessed /product_2005
+[2025-08-01 09:06:52] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:03:28] [INFO] Database connection successful
+[2025-08-01 09:08:45] [INFO] Database connection successful
+[2025-08-01 09:05:18] [INFO] User 1157 accessed /product_2005
+[2025-08-01 09:08:55] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:03:36] [INFO] User 1354 accessed /product_2004
+[2025-08-01 09:09:05] [INFO] User 1065 accessed /product_2008
+[2025-08-01 09:07:20] [INFO] INFO: Order 470 processed successfully
+[2025-08-01 09:03:42] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:28] [INFO] Database connection successful
+[2025-08-01 09:09:25] [INFO] User 1130 accessed /product_2006
+[2025-08-01 09:05:42] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:40] [INFO] Database connection successful
+[2025-08-01 09:07:44] [INFO] Database connection successful
+[2025-08-01 09:03:54] [INFO] User 1295 accessed /product_2002
+[2025-08-01 09:05:54] [INFO] INFO: Order 682 processed successfully
+[2025-08-01 09:09:55] [INFO] INFO: Order 296 processed successfully
+[2025-08-01 09:08:00] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:08:04] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:02:02] [INFO] Database connection successful
+[2025-08-01 09:06:09] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:02:04] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:10:25] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:08:24] [INFO] INFO: Order 173 processed successfully
+[2025-08-01 09:02:07] [INFO] Database connection successful
+[2025-08-01 09:04:16] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:06:27] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:08:40] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:10:55] [INFO] User 1319 accessed /product_2010
+[2025-08-01 09:02:12] [INFO] INFO: Order 960 processed successfully
+[2025-08-01 09:02:13] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:02:14] [INFO] INFO: Order 433 processed successfully
+[2025-08-01 09:04:30] [INFO] User 1370 accessed /product_2009
+[2025-08-01 09:02:16] [INFO] INFO: Order 176 processed successfully
+[2025-08-01 09:02:17] [INFO] User 1197 accessed /product_2002
+[2025-08-01 09:04:36] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:04:38] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:11:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:09:24] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:02:22] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:07:09] [INFO] User 1070 accessed /product_2006
+[2025-08-01 09:12:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:15] [INFO] INFO: Order 101 processed successfully
+[2025-08-01 09:07:18] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:02:27] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:24] [INFO] INFO: Order 663 processed successfully
+[2025-08-01 09:02:29] [INFO] INFO: Order 271 processed successfully
+[2025-08-01 09:12:30] [WARNING] User 1099 accessed
+[2025-08-01 09:10:04] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:10:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:02:33] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:12:50] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:02:35] [INFO] Database connection successful
+[2025-08-01 09:05:12] [INFO] User 1127 accessed /product_2009
+[2025-08-01 09:05:14] [INFO] Database connection successful
+[2025-08-01 09:10:32] [INFO] INFO: Order 816 processed successfully
+[2025-08-01 09:02:39] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:10:40] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:08:03] [INFO] INFO: Order 535 processed successfully
+[2025-08-01 09:02:42] [INFO] User 1023 accessed /product_2001
+[2025-08-01 09:13:35] [INFO] User 1241 accessed /product_2004
+[2025-08-01 09:02:44] [INFO] INFO: Order 467 processed successfully
+[2025-08-01 09:13:45] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:11:04] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:08:21] [INFO] INFO: Order 391 processed successfully
+[2025-08-01 09:11:12] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:02:49] [INFO] Database connection successful
+[2025-08-01 09:11:20] [INFO] Database connection successful
+[2025-08-01 09:08:33] [INFO] User 1288 accessed /product_2004
+[2025-08-01 09:08:36] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:14:25] [INFO] User 1344 accessed /product_2005
+[2025-08-01 09:05:48] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:11:40] [INFO] INFO: Order 249 processed successfully
+[2025-08-01 09:05:52] [INFO] Database connection successful
+[2025-08-01 09:05:54] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:02:58] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:14:55] [INFO] Database connection successful
+[2025-08-01 09:03:00] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:15:05] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:15:10] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:15:15] [INFO] INFO: Order 544 processed successfully
+[2025-08-01 09:12:16] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:15:25] [INFO] User 1050 accessed /product_2008
+[2025-08-01 09:12:24] [INFO] INFO: Order 353 processed successfully
+[2025-08-01 09:12:28] [INFO] Database connection successful
+[2025-08-01 09:03:08] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:06:18] [INFO] User 1480 accessed /product_2003
+[2025-08-01 09:12:40] [INFO] User 1364 accessed /product_2007
+[2025-08-01 09:09:33] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:03:12] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:03:13] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:06:28] [INFO] INFO: Order 106 processed successfully
+[2025-08-01 09:03:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:03:16] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:03:17] [INFO] User 1332 accessed /product_2010
+[2025-08-01 09:16:30] [INFO] Database connection successful
+[2025-08-01 09:16:35] [INFO] User 1088 accessed /product_2006
+[2025-08-01 09:13:20] [INFO] User 1282 accessed
+[2025-08-01 09:16:45] [INFO] User 1309 accessed /product_2003
+[2025-08-01 09:10:06] [INFO] User 1250 accessed /product_2004
+[2025-08-01 09:06:46] [INFO] Database connection successful
+[2025-08-01 09:10:12] [INFO] Database connection successful
+[2025-08-01 09:03:25] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:10:18] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:06:54] [INFO] User 1178 accessed /product_2008
+[2025-08-01 09:06:56] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:06:58] [INFO] INFO: Order 978 processed successfully
+[2025-08-01 09:14:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:03:31] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:10:36] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:03:33] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:03:34] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:07:10] [INFO] User 1461 accessed /product_2007
+[2025-08-01 09:07:12] [INFO] INFO: Order 436 processed successfully
+[2025-08-01 09:14:28] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:03:38] [INFO] Database connection successful
+[2025-08-01 09:03:39] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:18:20] [INFO] INFO: Order 543 processed successfully
+[2025-08-01 09:03:41] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:18:30] [INFO] INFO: Order 936 processed successfully
+[2025-08-01 09:11:09] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:14:56] [INFO] Database connection successful
+[2025-08-01 09:18:45] [INFO] INFO: Order 583 processed successfully
+[2025-08-01 09:03:46] [INFO] INFO: Order 346 processed successfully
+[2025-08-01 09:11:21] [INFO] Database connection successful
+[2025-08-01 09:15:12] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:07:38] [INFO] Database connection successful
+[2025-08-01 09:15:20] [INFO] User 1224 accessed /product_2009
+[2025-08-01 09:19:15] [INFO] User 1482 accessed /product_2005
+[2025-08-01 09:11:36] [INFO] INFO: Order 857 processed successfully
+[2025-08-01 09:15:32] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:03:54] [INFO] Database connection successful
+[2025-08-01 09:15:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:52] [INFO] User 1125 accessed /product_2005
+[2025-08-01 09:11:51] [INFO] User 1371 accessed /product_2009
+[2025-08-01 09:03:58] [INFO] User 1065 accessed /product_2010
+[2025-08-01 09:11:57] [INFO] User 1409 accessed /product_2008
+[2025-08-01 09:20:00] [INFO] User 1317 accessed /product_2002
+[2025-08-01 09:16:04] [INFO] User 1209 accessed /product_2005
+[2025-08-01 09:08:04] [INFO] Database connection successful
+[2025-08-01 09:04:03] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:04:04] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:04:05] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:20:30] [INFO] User 1326 accessed /product_2007
+[2025-08-01 09:16:28] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:08:16] [INFO] Database connection successful
+[2025-08-01 09:16:36] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:04:10] [ERROR] User 1136 accessed
+[2025-08-01 09:16:44] [INFO] Database connection successful
+[2025-08-01 09:04:12] [INFO] User 1384 accessed /product_2007
+[2025-08-01 09:12:39] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:04:14] [INFO] Database connection successful
+[2025-08-01 09:08:30] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:08:32] [INFO] Database connection successful
+[2025-08-01 09:21:25] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:12:54] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:04:19] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:17:20] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:17:24] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:04:22] [INFO] Database connection successful
+[2025-08-01 09:08:46] [INFO] Database connection successful
+[2025-08-01 09:13:12] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:08:50] [INFO] INFO: Order 178 processed successfully
+[2025-08-01 09:13:18] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:17:48] [INFO] User 1337 accessed /product_2001
+[2025-08-01 09:04:28] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:08:58] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:13:30] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:04:31] [INFO] User 1348 accessed /product_2001
+[2025-08-01 09:13:36] [INFO] Database connection successful
+[2025-08-01 09:04:33] [INFO] Database connection successful
+[2025-08-01 09:09:08] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:09:10] [INFO] INFO: Order 16 processed successfully
+[2025-08-01 09:13:48] [INFO] Database connection successful
+[2025-08-01 09:04:37] [INFO] Database connection successful
+[2025-08-01 09:18:32] [INFO] INFO: Order 763 processed successfully
+[2025-08-01 09:13:57] [INFO] INFO: Order 453 processed successfully
+[2025-08-01 09:18:40] [INFO] User 1023 accessed /product_2007
+[2025-08-01 09:09:22] [INFO] User 1000 accessed /product_2009
+[2025-08-01 09:14:06] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:14:09] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:18:56] [INFO] INFO: Order 60 processed successfully
+[2025-08-01 09:23:45] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:09:32] [INFO] User 1468 accessed /product_2009
+[2025-08-01 09:19:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:14:24] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:24:05] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:04:50] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:04:51] [INFO] User 1069 accessed /product_2001
+[2025-08-01 09:14:36] [INFO] INFO: Order 612 processed successfully
+[2025-08-01 09:04:53] [INFO] User 1113 accessed /product_2003
+[2025-08-01 09:19:36] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:09:50] [INFO] INFO: Order 710 processed successfully
+[2025-08-01 09:04:56] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:04:57] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:24:50] [INFO] User 1195 accessed /product_2006
+[2025-08-01 09:14:57] [INFO] Database connection successful
+[2025-08-01 09:20:00] [ERROR] User 1241 accessed
+[2025-08-01 09:10:02] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:20:08] [INFO] Database connection successful
+[2025-08-01 09:15:09] [INFO] User 1266 accessed /product_2005
+[2025-08-01 09:05:04] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:20:20] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:10:12] [INFO] INFO: Order 287 processed successfully
+[2025-08-01 09:05:07] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:05:08] [INFO] Database connection successful
+[2025-08-01 09:20:36] [INFO] User 1405 accessed /product_2009
+[2025-08-01 09:25:50] [INFO] Database connection successful
+[2025-08-01 09:20:44] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:20:48] [INFO] Database connection successful
+[2025-08-01 09:26:05] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:10:28] [INFO] INFO: Order 708 processed successfully
+[2025-08-01 09:26:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:26:20] [INFO] INFO: Order 696 processed successfully
+[2025-08-01 09:05:17] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:05:18] [INFO] INFO: Order 658 processed successfully
+[2025-08-01 09:10:38] [INFO] User 1297 accessed /product_2003
+[2025-08-01 09:05:20] [INFO] INFO: Order 991 processed successfully
+[2025-08-01 09:26:45] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:21:28] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:10:46] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:16:12] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:16:15] [INFO] User 1416 accessed /product_2006
+[2025-08-01 09:05:26] [INFO] INFO: Order 958 processed successfully
+[2025-08-01 09:27:15] [INFO] Database connection successful
+[2025-08-01 09:27:20] [INFO] INFO: Order 967 processed successfully
+[2025-08-01 09:27:25] [INFO] User 1399 accessed /product_2001
+[2025-08-01 09:05:30] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:16:33] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:05:32] [INFO] INFO: Order 390 processed successfully
+[2025-08-01 09:11:06] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:27:50] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:27:55] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:28:00] [INFO] User 1126 accessed /product_2007
+[2025-08-01 09:05:37] [INFO] INFO: Order 381 processed successfully
+[2025-08-01 09:22:32] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:28:15] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:17:00] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:11:22] [INFO] Database connection successful
+[2025-08-01 09:22:48] [INFO] User 1178 accessed /product_2005
+[2025-08-01 09:11:26] [INFO] INFO: Order 569 processed successfully
+[2025-08-01 09:22:56] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:17:15] [INFO] User 1248 accessed /product_2008
+[2025-08-01 09:11:32] [INFO] User 1383 accessed /product_2005
+[2025-08-01 09:11:34] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:17:24] [INFO] User 1061 accessed /product_2007
+[2025-08-01 09:23:16] [INFO] INFO: Order 6 processed successfully
+[2025-08-01 09:17:30] [WARNING] User 1128 accessed
+[2025-08-01 09:17:33] [INFO] User 1157 accessed /product_2001
+[2025-08-01 09:11:44] [INFO] INFO: Order 468 processed successfully
+[2025-08-01 09:11:46] [INFO] INFO: Order 78 processed successfully
+[2025-08-01 09:29:30] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:29:35] [INFO] INFO: Order 557 processed successfully
+[2025-08-01 09:23:44] [INFO] User 1097 accessed /product_2009
+[2025-08-01 09:05:57] [INFO] User 1401 accessed /product_2008
+[2025-08-01 09:29:50] [INFO] INFO: Order 310 processed successfully
+[2025-08-01 09:29:55] [INFO] User 1025 accessed /product_2003
+[2025-08-01 09:30:00] [INFO] Database connection successful
+[2025-08-01 09:12:02] [INFO] User 1498 accessed /product_2003
+[2025-08-01 09:24:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:18:09] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:30:20] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:30:25] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:06:06] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:12:14] [INFO] User 1021 accessed /product_2004
+[2025-08-01 09:06:08] [INFO] User 1079 accessed /product_2002
+[2025-08-01 09:18:27] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:30:50] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:12:22] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:06:12] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:12:26] [INFO] User 1382 accessed /product_2006
+[2025-08-01 09:31:10] [INFO] User 1498 accessed /product_2010
+[2025-08-01 09:12:30] [INFO] User 1412 accessed /product_2003
+[2025-08-01 09:18:48] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:31:25] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:06:18] [INFO] User 1012 accessed /product_2006
+[2025-08-01 09:06:19] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:25:20] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:25:24] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:19:06] [INFO] Database connection successful
+[2025-08-01 09:25:32] [INFO] User 1162 accessed /product_2002
+[2025-08-01 09:19:12] [INFO] INFO: Order 237 processed successfully
+[2025-08-01 09:19:15] [INFO] Database connection successful
+[2025-08-01 09:25:44] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:12:54] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:19:24] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:06:29] [INFO] User 1027 accessed /product_2006
+[2025-08-01 09:19:30] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:19:33] [INFO] Database connection successful
+[2025-08-01 09:26:08] [INFO] Database connection successful
+[2025-08-01 09:06:33] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:26:16] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:13:10] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:06:36] [INFO] INFO: Order 456 processed successfully
+[2025-08-01 09:13:14] [INFO] User 1429 accessed /product_2003
+[2025-08-01 09:13:16] [INFO] User 1143 accessed /product_2005
+[2025-08-01 09:13:18] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:06:40] [WARNING] User 1189 accessed
+[2025-08-01 09:33:25] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:26:48] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:26:52] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:33:40] [INFO] User 1326 accessed /product_2005
+[2025-08-01 09:20:15] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:27:04] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:13:34] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:34:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:13:38] [INFO] INFO: Order 194 processed successfully
+[2025-08-01 09:13:40] [INFO] INFO: Order 413 processed successfully
+[2025-08-01 09:34:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:06:52] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:13:46] [INFO] INFO: Order 643 processed successfully
+[2025-08-01 09:34:30] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:34:35] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:34:40] [INFO] User 1232 accessed /product_2010
+[2025-08-01 09:13:54] [INFO] Database connection successful
+[2025-08-01 09:13:56] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:27:56] [INFO] INFO: Order 110 processed successfully
+[2025-08-01 09:14:00] [INFO] Database connection successful
+[2025-08-01 09:28:04] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:02] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:14:06] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:14:08] [INFO] User 1050 accessed /product_2007
+[2025-08-01 09:21:15] [INFO] User 1442 accessed /product_2003
+[2025-08-01 09:28:24] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:28:28] [INFO] INFO: Order 129 processed successfully
+[2025-08-01 09:35:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:35:45] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:35:50] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:14:22] [INFO] Database connection successful
+[2025-08-01 09:36:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:21:39] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:14] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:36:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:29:04] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:07:17] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:21:54] [INFO] Database connection successful
+[2025-08-01 09:14:38] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:36:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:22:03] [INFO] Database connection successful
+[2025-08-01 09:29:28] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:23] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:22:12] [INFO] Database connection successful
+[2025-08-01 09:37:05] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:26] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:29:48] [INFO] Database connection successful
+[2025-08-01 09:07:28] [INFO] Database connection successful
+[2025-08-01 09:07:29] [INFO] Database connection successful
+[2025-08-01 09:15:00] [WARNING] User 1465 accessed
+[2025-08-01 09:15:02] [INFO] User 1102 accessed /product_2002
+[2025-08-01 09:07:32] [INFO] User 1376 accessed /product_2004
+[2025-08-01 09:07:33] [INFO] Database connection successful
+[2025-08-01 09:22:42] [INFO] Database connection successful
+[2025-08-01 09:22:45] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:30:24] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:15:14] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:22:54] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:38:15] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:23:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:07:41] [INFO] INFO: Order 895 processed successfully
+[2025-08-01 09:30:48] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:07:43] [INFO] User 1362 accessed /product_2002
+[2025-08-01 09:38:40] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:23:15] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:15:32] [INFO] INFO: Order 461 processed successfully
+[2025-08-01 09:07:47] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:23:24] [INFO] Database connection successful
+[2025-08-01 09:31:16] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:23:30] [INFO] User 1047 accessed /product_2001
+[2025-08-01 09:15:42] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:39:20] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:31:32] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:31:36] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:39:35] [INFO] User 1491 accessed /product_2002
+[2025-08-01 09:31:44] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:15:54] [INFO] User 1171 accessed /product_2002
+[2025-08-01 09:39:50] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:23:57] [INFO] Database connection successful
+[2025-08-01 09:24:00] [INFO] User 1014 accessed /product_2001
+[2025-08-01 09:08:01] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:40:10] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:40:15] [INFO] Database connection successful
+[2025-08-01 09:08:04] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:32:20] [INFO] Database connection successful
+[2025-08-01 09:24:18] [INFO] Database connection successful
+[2025-08-01 09:24:21] [INFO] Database connection successful
+[2025-08-01 09:08:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:32:36] [INFO] Database connection successful
+[2025-08-01 09:08:10] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:40:55] [INFO] INFO: Order 690 processed successfully
+[2025-08-01 09:24:36] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:24:39] [INFO] INFO: Order 551 processed successfully
+[2025-08-01 09:24:42] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:33:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:24:48] [INFO] Database connection successful
+[2025-08-01 09:08:17] [INFO] Database connection successful
+[2025-08-01 09:08:18] [INFO] Database connection successful
+[2025-08-01 09:16:38] [INFO] Database connection successful
+[2025-08-01 09:08:20] [WARNING] User 1478 accessed
+[2025-08-01 09:16:42] [INFO] Database connection successful
+[2025-08-01 09:41:50] [INFO] User 1195 accessed /product_2009
+[2025-08-01 09:33:32] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:33:36] [INFO] INFO: Order 286 processed successfully
+[2025-08-01 09:16:50] [INFO] User 1448 accessed /product_2005
+[2025-08-01 09:16:52] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:25:21] [INFO] User 1100 accessed /product_2005
+[2025-08-01 09:33:52] [INFO] INFO: Order 805 processed successfully
+[2025-08-01 09:25:27] [INFO] User 1191 accessed /product_2010
+[2025-08-01 09:08:30] [INFO] Database connection successful
+[2025-08-01 09:42:35] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:17:04] [INFO] Database connection successful
+[2025-08-01 09:17:06] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:17:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:34:20] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:43:00] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:43:05] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:17:16] [INFO] Database connection successful
+[2025-08-01 09:25:57] [INFO] INFO: Order 858 processed successfully
+[2025-08-01 09:34:40] [INFO] Database connection successful
+[2025-08-01 09:17:22] [INFO] Database connection successful
+[2025-08-01 09:43:30] [INFO] INFO: Order 619 processed successfully
+[2025-08-01 09:43:35] [INFO] User 1297 accessed /product_2008
+[2025-08-01 09:26:12] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:26:15] [INFO] INFO: Order 483 processed successfully
+[2025-08-01 09:26:18] [INFO] INFO: Order 145 processed successfully
+[2025-08-01 09:26:21] [INFO] Database connection successful
+[2025-08-01 09:17:36] [INFO] INFO: Order 460 processed successfully
+[2025-08-01 09:26:27] [INFO] INFO: Order 752 processed successfully
+[2025-08-01 09:44:10] [INFO] Database connection successful
+[2025-08-01 09:44:15] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:08:52] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:17:46] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:35:36] [INFO] Database connection successful
+[2025-08-01 09:26:45] [INFO] INFO: Order 541 processed successfully
+[2025-08-01 09:17:52] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:17:54] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:26:54] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:08:59] [INFO] User 1296 accessed /product_2002
+[2025-08-01 09:09:00] [INFO] Database connection successful
+[2025-08-01 09:36:04] [INFO] User 1223 accessed /product_2006
+[2025-08-01 09:45:10] [INFO] Database connection successful
+[2025-08-01 09:09:03] [INFO] User 1273 accessed /product_2007
+[2025-08-01 09:36:16] [INFO] INFO: Order 937 processed successfully
+[2025-08-01 09:27:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:09:06] [INFO] Database connection successful
+[2025-08-01 09:36:28] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:45:40] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:27:27] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:36:40] [WARNING] User 1147 accessed
+[2025-08-01 09:27:33] [INFO] User 1433 accessed /product_2007
+[2025-08-01 09:27:36] [INFO] User 1383 accessed /product_2009
+[2025-08-01 09:27:39] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:27:42] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:27:45] [INFO] INFO: Order 140 processed successfully
+[2025-08-01 09:18:32] [INFO] INFO: Order 676 processed successfully
+[2025-08-01 09:46:25] [INFO] Database connection successful
+[2025-08-01 09:27:54] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:18:38] [INFO] INFO: Order 460 processed successfully
+[2025-08-01 09:18:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:28:03] [INFO] User 1434 accessed /product_2005
+[2025-08-01 09:28:06] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:37:32] [INFO] User 1269 accessed /product_2009
+[2025-08-01 09:28:12] [INFO] User 1086 accessed /product_2006
+[2025-08-01 09:09:25] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:28:18] [INFO] User 1145 accessed /product_2002
+[2025-08-01 09:09:27] [INFO] Database connection successful
+[2025-08-01 09:47:20] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:28:27] [INFO] Database connection successful
+[2025-08-01 09:47:30] [INFO] User 1132 accessed /product_2007
+[2025-08-01 09:19:02] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:19:04] [INFO] User 1355 accessed /product_2007
+[2025-08-01 09:28:39] [INFO] User 1094 accessed /product_2005
+[2025-08-01 09:38:16] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:19:10] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:28:48] [INFO] INFO: Order 148 processed successfully
+[2025-08-01 09:28:51] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:38:32] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:09:39] [INFO] Database connection successful
+[2025-08-01 09:48:20] [INFO] User 1239 accessed /product_2003
+[2025-08-01 09:29:03] [INFO] INFO: Order 822 processed successfully
+[2025-08-01 09:38:48] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:38:52] [INFO] Database connection successful
+[2025-08-01 09:48:40] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:09:45] [INFO] User 1069 accessed /product_2007
+[2025-08-01 09:39:04] [INFO] Database connection successful
+[2025-08-01 09:09:47] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:29:24] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:39:16] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:09:50] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:09:51] [INFO] INFO: Order 785 processed successfully
+[2025-08-01 09:09:52] [INFO] Database connection successful
+[2025-08-01 09:09:53] [INFO] INFO: Order 767 processed successfully
+[2025-08-01 09:29:42] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:39:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:29:48] [INFO] User 1063 accessed /product_2010
+[2025-08-01 09:09:57] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:49:50] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:49:55] [INFO] INFO: Order 307 processed successfully
+[2025-08-01 09:20:00] [ERROR] User 1375 accessed
+[2025-08-01 09:10:01] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:50:10] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:10:03] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:40:16] [INFO] Database connection successful
+[2025-08-01 09:30:15] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:40:24] [INFO] Database connection successful
+[2025-08-01 09:20:14] [INFO] INFO: Order 923 processed successfully
+[2025-08-01 09:50:40] [INFO] Database connection successful
+[2025-08-01 09:20:18] [INFO] User 1037 accessed /product_2010
+[2025-08-01 09:30:30] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:30:33] [INFO] Database connection successful
+[2025-08-01 09:40:48] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:10:13] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:51:10] [INFO] Database connection successful
+[2025-08-01 09:10:15] [INFO] User 1391 accessed /product_2004
+[2025-08-01 09:20:32] [INFO] INFO: Order 450 processed successfully
+[2025-08-01 09:10:17] [INFO] INFO: Order 872 processed successfully
+[2025-08-01 09:51:30] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:30:57] [INFO] Database connection successful
+[2025-08-01 09:41:20] [INFO] User 1249 accessed /product_2007
+[2025-08-01 09:51:45] [INFO] Database connection successful
+[2025-08-01 09:10:22] [INFO] Database connection successful
+[2025-08-01 09:31:09] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:41:36] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:41:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:41:44] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:31:21] [INFO] User 1100 accessed /product_2001
+[2025-08-01 09:31:24] [INFO] User 1244 accessed /product_2001
+[2025-08-01 09:41:56] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:21:00] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:52:35] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:42:08] [INFO] User 1382 accessed /product_2004
+[2025-08-01 09:52:45] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:31:42] [INFO] INFO: Order 553 processed successfully
+[2025-08-01 09:21:10] [INFO] User 1036 accessed /product_2005
+[2025-08-01 09:53:00] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:10:37] [INFO] INFO: Order 965 processed successfully
+[2025-08-01 09:10:38] [INFO] User 1319 accessed /product_2002
+[2025-08-01 09:53:15] [INFO] INFO: Order 616 processed successfully
+[2025-08-01 09:32:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:53:25] [INFO] Database connection successful
+[2025-08-01 09:53:30] [INFO] User 1374 accessed /product_2007
+[2025-08-01 09:42:52] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:10:44] [INFO] INFO: Order 931 processed successfully
+[2025-08-01 09:32:15] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:53:50] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:43:08] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:10:48] [INFO] Database connection successful
+[2025-08-01 09:21:38] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:54:10] [WARNING] User 1469 accessed
+[2025-08-01 09:21:42] [INFO] INFO: Order 601 processed successfully
+[2025-08-01 09:32:36] [INFO] Database connection successful
+[2025-08-01 09:54:25] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:10:54] [INFO] User 1137 accessed /product_2001
+[2025-08-01 09:10:55] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:54:40] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:32:51] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:32:54] [INFO] INFO: Order 107 processed successfully
+[2025-08-01 09:43:56] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:33:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:44:04] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:11:02] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:22:06] [INFO] INFO: Order 437 processed successfully
+[2025-08-01 09:44:16] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:44:20] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:11:06] [INFO] Database connection successful
+[2025-08-01 09:55:35] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:44:32] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:44:36] [INFO] INFO: Order 982 processed successfully
+[2025-08-01 09:44:40] [INFO] Database connection successful
+[2025-08-01 09:33:33] [INFO] INFO: Order 497 processed successfully
+[2025-08-01 09:33:36] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:44:52] [INFO] INFO: Order 7 processed successfully
+[2025-08-01 09:56:10] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:45:00] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:11:16] [INFO] INFO: Order 240 processed successfully
+[2025-08-01 09:45:08] [INFO] User 1254 accessed /product_2004
+[2025-08-01 09:22:36] [INFO] Database connection successful
+[2025-08-01 09:45:16] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:34:00] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:11:21] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:34:06] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:11:23] [INFO] INFO: Order 728 processed successfully
+[2025-08-01 09:11:24] [INFO] Database connection successful
+[2025-08-01 09:34:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:22:52] [INFO] User 1316 accessed /product_2005
+[2025-08-01 09:11:27] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:34:24] [INFO] Database connection successful
+[2025-08-01 09:57:25] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:23:00] [INFO] INFO: Order 443 processed successfully
+[2025-08-01 09:11:31] [INFO] INFO: Order 757 processed successfully
+[2025-08-01 09:57:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:57:45] [INFO] User 1048 accessed /product_2006
+[2025-08-01 09:34:42] [INFO] Database connection successful
+[2025-08-01 09:23:10] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:46:24] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:23:14] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:23:16] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:23:18] [INFO] INFO: Order 744 processed successfully
+[2025-08-01 09:35:00] [INFO] User 1353 accessed
+[2025-08-01 09:46:44] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:23:24] [INFO] INFO: Order 360 processed successfully
+[2025-08-01 09:35:09] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:46:56] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:47:00] [INFO] INFO: Order 734 processed successfully
+[2025-08-01 09:47:04] [INFO] User 1467 accessed /product_2001
+[2025-08-01 09:23:34] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:11:48] [INFO] Database connection successful
+[2025-08-01 09:23:38] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:23:40] [INFO] User 1088 accessed /product_2005
+[2025-08-01 09:11:51] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:35:36] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:23:46] [INFO] User 1252 accessed /product_2010
+[2025-08-01 09:11:54] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:11:55] [INFO] INFO: Order 250 processed successfully
+[2025-08-01 09:47:44] [INFO] Database connection successful
+[2025-08-01 09:11:57] [INFO] Database connection successful
+[2025-08-01 09:35:54] [INFO] Database connection successful
+[2025-08-01 09:11:59] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:00:00] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:36:03] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:48:08] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:24:06] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:36:12] [INFO] Database connection successful
+[2025-08-01 09:12:05] [INFO] Database connection successful
+[2025-08-01 09:12:06] [INFO] INFO: Order 556 processed successfully
+[2025-08-01 10:00:35] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:00:40] [INFO] User 1011 accessed /product_2008
+[2025-08-01 09:48:36] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:12:10] [INFO] User 1453 accessed /product_2010
+[2025-08-01 10:00:55] [INFO] Database connection successful
+[2025-08-01 10:01:00] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 10:01:05] [INFO] User 1136 accessed /product_2006
+[2025-08-01 09:36:42] [INFO] INFO: Order 480 processed successfully
+[2025-08-01 09:12:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:12:16] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:36:51] [INFO] Database connection successful
+[2025-08-01 09:49:12] [INFO] User 1490 accessed /product_2009
+[2025-08-01 09:36:57] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:12:20] [INFO] User 1086 accessed /product_2006
+[2025-08-01 09:49:24] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:49:28] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:01:55] [INFO] Database connection successful
+[2025-08-01 10:02:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:12:25] [INFO] INFO: Order 37 processed successfully
+[2025-08-01 09:12:26] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:37:21] [INFO] INFO: Order 756 processed successfully
+[2025-08-01 09:49:52] [INFO] Database connection successful
+[2025-08-01 09:12:29] [INFO] User 1187 accessed /product_2002
+[2025-08-01 09:50:00] [ERROR] User 1065 accessed
+[2025-08-01 09:25:02] [INFO] User 1057 accessed /product_2010
+[2025-08-01 09:12:32] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:12:33] [INFO] Database connection successful
+[2025-08-01 10:02:50] [INFO] INFO: Order 458 processed successfully
+[2025-08-01 09:50:20] [INFO] User 1259 accessed /product_2001
+[2025-08-01 09:25:12] [INFO] User 1095 accessed /product_2002
+[2025-08-01 09:25:14] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:37:54] [INFO] User 1453 accessed /product_2006
+[2025-08-01 09:12:39] [INFO] User 1187 accessed /product_2005
+[2025-08-01 09:12:40] [INFO] User 1187 accessed /product_2008
+[2025-08-01 09:25:22] [INFO] User 1428 accessed /product_2008
+[2025-08-01 09:50:48] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:38:09] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:03:40] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 10:03:45] [INFO] Database connection successful
+[2025-08-01 09:12:46] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:25:34] [INFO] Database connection successful
+[2025-08-01 09:25:36] [INFO] INFO: Order 760 processed successfully
+[2025-08-01 09:38:27] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:04:10] [INFO] Database connection successful
+[2025-08-01 09:38:33] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:12:52] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:51:32] [INFO] Database connection successful
+[2025-08-01 10:04:30] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:12:55] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:12:56] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:04:45] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:04:50] [INFO] INFO: Order 250 processed successfully
+[2025-08-01 09:38:57] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 10:05:00] [INFO] INFO: Order 873 processed successfully
+[2025-08-01 09:52:04] [INFO] INFO: Order 907 processed successfully
+[2025-08-01 09:13:02] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:26:06] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 10:05:20] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:13:05] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:13:06] [INFO] User 1282 accessed /product_2010
+[2025-08-01 09:13:07] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:05:40] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:52:36] [INFO] INFO: Order 651 processed successfully
+[2025-08-01 10:05:50] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:52:44] [INFO] User 1034 accessed /product_2009
+[2025-08-01 10:06:00] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:52:52] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:06:10] [INFO] Database connection successful
+[2025-08-01 09:53:00] [INFO] Database connection successful
+[2025-08-01 09:53:04] [INFO] INFO: Order 66 processed successfully
+[2025-08-01 09:26:34] [INFO] User 1345 accessed /product_2003
+[2025-08-01 09:26:36] [INFO] Database connection successful
+[2025-08-01 09:53:16] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:53:20] [WARNING] User 1443 accessed
+[2025-08-01 09:53:24] [INFO] User 1099 accessed /product_2006
+[2025-08-01 09:53:28] [INFO] Database connection successful
+[2025-08-01 10:06:55] [INFO] INFO: Order 48 processed successfully
+[2025-08-01 09:53:36] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:13:25] [INFO] Database connection successful
+[2025-08-01 10:07:10] [INFO] User 1169 accessed /product_2007
+[2025-08-01 09:40:21] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:07:20] [INFO] Database connection successful
+[2025-08-01 10:07:25] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:07:30] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:07:35] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:54:08] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:13:33] [INFO] Database connection successful
+[2025-08-01 09:27:08] [INFO] User 1205 accessed /product_2005
+[2025-08-01 10:07:55] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 10:08:00] [INFO] User 1049 accessed /product_2009
+[2025-08-01 09:40:51] [INFO] User 1373 accessed /product_2008
+[2025-08-01 09:13:38] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:27:18] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:13:40] [INFO] INFO: Order 890 processed successfully
+[2025-08-01 10:08:25] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 10:08:30] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:08:35] [INFO] INFO: Order 273 processed successfully
+[2025-08-01 09:54:56] [INFO] Database connection successful
+[2025-08-01 09:13:45] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:41:18] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:13:47] [INFO] User 1301 accessed /product_2005
+[2025-08-01 09:27:36] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:13:49] [INFO] INFO: Order 257 processed successfully
+[2025-08-01 09:41:30] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:13:51] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:41:36] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:09:25] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:55:36] [INFO] INFO: Order 208 processed successfully
+[2025-08-01 10:09:35] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:55:44] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:41:51] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:41:54] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:55:56] [INFO] INFO: Order 547 processed successfully
+[2025-08-01 10:10:00] [INFO] User 1110 accessed /product_2002
+[2025-08-01 09:14:01] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:14:02] [INFO] User 1208 accessed /product_2001
+[2025-08-01 10:10:15] [INFO] Database connection successful
+[2025-08-01 09:42:12] [INFO] User 1399 accessed /product_2003
+[2025-08-01 10:10:25] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:28:12] [INFO] User 1027 accessed /product_2004
+[2025-08-01 09:28:14] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:42:24] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:14:09] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:14:10] [WARNING] User 1364 accessed
+[2025-08-01 09:28:22] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:14:12] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:11:05] [INFO] INFO: Order 491 processed successfully
+[2025-08-01 09:42:42] [INFO] INFO: Order 904 processed successfully
+[2025-08-01 10:11:15] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:57:04] [INFO] User 1148 accessed /product_2008
+[2025-08-01 09:14:17] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:11:30] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:28:38] [INFO] User 1452 accessed /product_2005
+[2025-08-01 09:28:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:57:24] [INFO] Database connection successful
+[2025-08-01 09:14:22] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:14:23] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:43:12] [INFO] User 1399 accessed /product_2008
+[2025-08-01 09:28:50] [INFO] Database connection successful
+[2025-08-01 09:28:52] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:28:54] [INFO] Database connection successful
+[2025-08-01 09:14:28] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:43:27] [INFO] Database connection successful
+[2025-08-01 10:12:30] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 10:12:35] [INFO] Database connection successful
+[2025-08-01 09:14:32] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:14:33] [INFO] Database connection successful
+[2025-08-01 09:29:08] [INFO] Database connection successful
+[2025-08-01 09:58:20] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:29:12] [INFO] Database connection successful
+[2025-08-01 09:29:14] [INFO] Database connection successful
+[2025-08-01 09:58:32] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 10:13:15] [INFO] User 1056 accessed /product_2005
+[2025-08-01 09:44:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:14:41] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:58:48] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:29:26] [INFO] Database connection successful
+[2025-08-01 10:13:40] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 10:13:45] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:14:46] [INFO] INFO: Order 578 processed successfully
+[2025-08-01 10:13:55] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 10:14:00] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:44:27] [INFO] INFO: Order 885 processed successfully
+[2025-08-01 09:59:20] [INFO] Database connection successful
+[2025-08-01 09:44:33] [INFO] Database connection successful
+[2025-08-01 09:59:28] [INFO] Database connection successful
+[2025-08-01 09:29:46] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:44:42] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:29:50] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:14:40] [INFO] Database connection successful
+[2025-08-01 09:44:51] [INFO] Database connection successful
+[2025-08-01 10:14:50] [INFO] Database connection successful
+[2025-08-01 10:14:55] [INFO] INFO: Order 234 processed successfully
+[2025-08-01 09:15:00] [WARNING] User 1448 accessed
+[2025-08-01 09:45:03] [INFO] Database connection successful
+[2025-08-01 09:45:06] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:15:15] [INFO] INFO: Order 304 processed successfully
+[2025-08-01 10:00:16] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 09:30:10] [INFO] User 1034 accessed /product_2001
+[2025-08-01 09:45:18] [INFO] User 1328 accessed /product_2001
+[2025-08-01 09:45:21] [INFO] INFO: Order 449 processed successfully
+[2025-08-01 09:15:08] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:00:36] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:45:30] [INFO] INFO: Order 213 processed successfully
+[2025-08-01 09:15:11] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:16:00] [INFO] User 1133 accessed /product_2010
+[2025-08-01 09:15:13] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:16:10] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 10:16:15] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:16:20] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:01:08] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:16:30] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:30:38] [INFO] User 1144 accessed /product_2007
+[2025-08-01 09:30:40] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:16:45] [INFO] Database connection successful
+[2025-08-01 09:15:22] [INFO] Database connection successful
+[2025-08-01 09:30:46] [INFO] INFO: Order 437 processed successfully
+[2025-08-01 09:46:12] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:46:15] [INFO] Database connection successful
+[2025-08-01 09:46:18] [INFO] Database connection successful
+[2025-08-01 09:15:27] [INFO] Database connection successful
+[2025-08-01 10:01:52] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:17:25] [INFO] INFO: Order 760 processed successfully
+[2025-08-01 10:02:00] [INFO] User 1033 accessed /product_2009
+[2025-08-01 10:17:35] [INFO] User 1352 accessed /product_2008
+[2025-08-01 10:17:40] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:02:12] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:31:08] [INFO] User 1398 accessed /product_2003
+[2025-08-01 09:46:45] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:31:12] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 10:02:28] [INFO] INFO: Order 647 processed successfully
+[2025-08-01 09:31:16] [INFO] User 1234 accessed /product_2007
+[2025-08-01 09:15:39] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:31:20] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:02:44] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:47:06] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:47:09] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:15:44] [INFO] User 1449 accessed /product_2010
+[2025-08-01 10:03:00] [INFO] INFO: Order 930 processed successfully
+[2025-08-01 10:03:04] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:47:21] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:15:48] [INFO] Database connection successful
+[2025-08-01 10:19:05] [INFO] User 1189 accessed /product_2005
+[2025-08-01 09:15:50] [INFO] User 1320 accessed
+[2025-08-01 10:03:24] [INFO] Database connection successful
+[2025-08-01 09:31:44] [INFO] INFO: Order 345 processed successfully
+[2025-08-01 10:03:32] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 10:19:30] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:15:55] [INFO] Database connection successful
+[2025-08-01 09:47:48] [INFO] INFO: Order 598 processed successfully
+[2025-08-01 09:31:54] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:47:54] [INFO] Database connection successful
+[2025-08-01 09:47:57] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:16:00] [INFO] INFO: Order 630 processed successfully
+[2025-08-01 09:32:02] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:16:02] [INFO] Database connection successful
+[2025-08-01 10:04:12] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:32:08] [INFO] User 1183 accessed /product_2009
+[2025-08-01 10:20:25] [INFO] User 1261 accessed /product_2010
+[2025-08-01 10:04:24] [INFO] User 1341 accessed /product_2003
+[2025-08-01 09:16:07] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:32:16] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:32:18] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:48:30] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:32:22] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 10:04:48] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:32:26] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:48:42] [WARNING] WARN: High CPU usage detected on server 3
+[2025-08-01 09:48:45] [INFO] INFO: Order 309 processed successfully
+[2025-08-01 10:21:20] [INFO] INFO: Order 129 processed successfully
+[2025-08-01 10:05:08] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:05:12] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:48:57] [INFO] User 1335 accessed /product_2002
+[2025-08-01 10:05:20] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:49:03] [WARNING] WARN: High CPU usage detected on server 2
+[2025-08-01 09:32:44] [INFO] User 1413 accessed /product_2008
+[2025-08-01 09:49:09] [WARNING] WARN: High CPU usage detected on server 1
+[2025-08-01 10:22:00] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:16:25] [INFO] User 1200 accessed /product_2010
+[2025-08-01 10:22:10] [INFO] Database connection successful
+[2025-08-01 10:22:15] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:32:56] [INFO] User 1483 accessed /product_2007
+[2025-08-01 09:32:58] [INFO] User 1163 accessed /product_2010
+[2025-08-01 09:49:30] [INFO] User 1343 accessed /product_2001
+[2025-08-01 09:49:33] [INFO] Database connection successful
+[2025-08-01 09:16:32] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 09:33:06] [INFO] User 1135 accessed /product_2005
+[2025-08-01 09:49:42] [INFO] Database connection successful
+[2025-08-01 10:22:55] [ERROR] ERROR: Database timeout on order insert
+[2025-08-01 10:23:00] [INFO] INFO: Order 82 processed successfully
+[2025-08-01 10:06:28] [ERROR] ERROR: Unable to connect to promotion database
+[2025-08-01 09:16:38] [INFO] Database connection successful
+[2025-08-01 09:49:57] [INFO] INFO: Order 469 processed successfully

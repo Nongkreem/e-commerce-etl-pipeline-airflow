@@ -1,0 +1,19 @@
+# Ignore environment variables file containing sensitive data
+/.env
+
+# Ignore Python cache and build artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Ignore IDE-specific files (e.g., VS Code)
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Airflow logs
+logs/
